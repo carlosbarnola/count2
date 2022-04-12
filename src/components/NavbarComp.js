@@ -14,7 +14,7 @@ function NavbarComp () {
           height="30"
           className="d-inline-block align-top"
         />{' '}
-      OXO Inspections
+      OxOwl Inspections
       </Navbar.Brand>
     </Container>
   </Navbar>
